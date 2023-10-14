@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zbellman
 - 👀 I’m interested in Cycling, photography, video games, and cooking
 - 🌱 I’m currently learning Cloud computing 
-- 💞️ I’m looking to collaborate on my focus on Saas
+- 💞️ I’m looking to collaborate on my focus on Saas 
 - 📫 How to reach me zbellman@mac.com
 
 <!---
